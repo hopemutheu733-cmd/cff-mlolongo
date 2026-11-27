@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fdf8f0;
+  color: #2b2b2b;
+  line-height: 1.6;
+}
+
+header {
+  text-align: center;
+  padding: 20px 0;
+}
+
+h1, h2 {
+  color: #6b2d5c;
+}
+
+.tagline {
+  font-style: italic;
+  color: gray;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #6b2d5c;
+}
+
+.card {
+  background-color: white;
+  padding: 15px 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  border-left: 5px solid #6b2d5c;
+}
+
+footer {
+  margin-top: 40px;
+  text-align: center;
+  color: gray;
+}
